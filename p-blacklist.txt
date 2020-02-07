@@ -1,3 +1,4 @@
+# Exact blocking
 analytics.plex.tv
 app-analytics.snapchat.com
 cloudservices.roku.com
@@ -10,6 +11,7 @@ trace.svc.ui.com
 wpad.lab.p-vegas.com
 z.moatads.com
 
+# Regex & Wildcard blocking
 (^|\.)aa\.online-metrix\.net$
 (^|\.)ads\.roku\.com$
 (^|\.)coin-hive\.com$
